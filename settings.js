@@ -31,7 +31,7 @@ global.session = "QjhKZ3hSUEU=" //session Id
 global.ownernomer = "94704863866" //ur number
 global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
 global.premium = ['94704863866'] //ur premium number
-global.botname = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
+global.botname = 'snr-alie ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://www.darknero.ga/' //script link
